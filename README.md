@@ -12,7 +12,6 @@
   </a>
 </div>
 --!>
-<hr>
 <div align=center>
   <h1 font="CrimsonText">📚 STACKS</h1>
 </div>
