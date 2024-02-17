@@ -1,4 +1,4 @@
-
+<img src="https://img.shields.io/badge/java-yellow?style=plastic&logo=Sass&logoColor=1428A0"/>
 <!--
 **jihye046/jihye046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
