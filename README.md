@@ -3,13 +3,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihye046%2Fhit-counter&count_bg=%234E4F4D&title_bg=%23B875DB&icon=&icon_color=%23E7E7E7&title=%E2%AD%90+hits++&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songg046@gmail.com)](mailto:songg046@gmail.com)
 ---
+[![jihye's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jihye046&theme=nord)](https://github.com/jihye046/github-readme-activity-graph)
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihye046&exclude_repo=jihye046.github.io&layout=compact&theme=dracula" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=jihye046&theme=dracula&show_icons=true&hide=contribs,prs" width="19%" />
 </a>
-[![jihye's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jihye046&theme=nord)](https://github.com/jihye046/github-readme-activity-graph)
+
 
 
 
