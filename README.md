@@ -12,11 +12,9 @@
   </a>
 </div>
 --!>
-
 <hr>
-
 <div align=center>
-  <h1>📚 STACKS</h1>
+  <h1 font="CrimsonText">📚 STACKS</h1>
 </div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -38,12 +36,12 @@
   <br>
   
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <br>  
 </div>
-
-
 
 
 
