@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Hello!&fontSize=90)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=35&pause=1000&color=14142CA9&random=false&width=435&lines=Welcome+to+my+Github;)](https://git.io/typing-svg)   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihye046%2Fhit-counter&count_bg=%234E4F4D&title_bg=%23B875DB&icon=&icon_color=%23E7E7E7&title=%E2%AD%90+hits++&edge_flat=false)](https://hits.seeyoufarm.com) 
-[![Gmail Badge](https://img.shields.io/badge/songg046@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:songg046@gmail.com)](mailto:songg046@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/songg046@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:songg046@gmail.com)](mailto:songg046@gmail.com)
 <a href="https://wisdomdev.notion.site/a206cbe8d1b84744a7d86d2b5d735031?v=135c6a8d75444d09a386cbe0dd564566&pvs=4">
   <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23000000?style=flat&logo=Notion">
 </a>
